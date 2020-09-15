@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">InClass11</string>
+    <string name="current_expenses">Current Expenses:</string>
+    <string name="there_is_no_expense_to_show_please_add_your_expenses_from_the_menu">There is no expense to show. Please add your expenses from the menu.</string>
+    <string name="add_an_expense">Add an expense</string>
+    <string name="expense_name">Expense Name</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="expense_details">Expense Details</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="edit_expense">Edit Expense</string>
+    <string name="close">Close</string>
+    <string name="save">Save</string>
+    <string-array name="category_list">
+        <item>Groceries</item>
+        <item>Invoice</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Rent</item>
+        <item>Trips</item>
+        <item>Utilities</item>
+        <item>Other</item>
+    </string-array>
+</resources>
