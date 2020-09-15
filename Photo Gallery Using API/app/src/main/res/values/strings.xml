@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Main Activity</string>
+    <string name="keyWord">Search Keyword</string>
+</resources>
